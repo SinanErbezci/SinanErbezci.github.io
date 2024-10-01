@@ -115,3 +115,7 @@ img {
 .no-underline:hover{
   text-decoration: underline;
 }
+
+.contact {
+  display: none;
+}
