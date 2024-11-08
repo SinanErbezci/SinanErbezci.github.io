@@ -121,7 +121,7 @@ img {
 }
 
 
-@media(min-width:992) {
+@media(min-width:992px) {
   .icon {
     width:80px;
   }
