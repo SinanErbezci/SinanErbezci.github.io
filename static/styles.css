@@ -53,6 +53,7 @@ img {
 
 .icon {
   width: 40px;
+  transition: all 0.2s ease-in-out;
 }
 
 /*
@@ -120,6 +121,9 @@ img {
   display: none;
 }
 
+.icon:hover {
+  transform: translateY(-10px);
+}
 
 @media(min-width:992px) {
   .icon {
