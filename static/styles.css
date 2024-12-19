@@ -119,3 +119,8 @@ img {
 .contact {
   display: none;
 }
+
+.profile-pic {
+  max-width: 240px;
+  height: auto;
+}
