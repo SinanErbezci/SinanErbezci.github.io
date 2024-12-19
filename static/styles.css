@@ -125,3 +125,18 @@ img {
   max-width: 240px;
   height: auto;
 }
+
+.icon {
+  width: 40px;
+  transition: all 0.2s ease-in-out;
+}
+
+.icon:hover {
+  transform: translateY(-10px);
+}
+
+@media(min-width:768px) {
+  .icon {
+    width:60px;
+  }
+}
