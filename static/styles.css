@@ -135,6 +135,9 @@ img {
   transform: translateY(-10px);
 }
 
+.bookclub-link {
+  color: #D4AF37;
+}
 @media(min-width:768px) {
   .icon {
     width:60px;
